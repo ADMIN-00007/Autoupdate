@@ -1,0 +1,5 @@
+C:\Autoupdate\TrialApp\CellCityDashBoard\bin\Release\net6.0-windows\app.publish\CellCityDashBoard.exe
+C:\Autoupdate\TrialApp\CellCityDashBoard\bin\Release\net6.0-windows\app.publish\CellCityDashBoard.dll
+C:\Autoupdate\TrialApp\CellCityDashBoard\bin\Release\net6.0-windows\app.publish\CellCityDashBoard.deps.json
+C:\Autoupdate\TrialApp\CellCityDashBoard\bin\Release\net6.0-windows\app.publish\CellCityDashBoard.runtimeconfig.json
+C:\Autoupdate\TrialApp\CellCityDashBoard\bin\Release\net6.0-windows\app.publish\CellCityDashBoard.pdb
