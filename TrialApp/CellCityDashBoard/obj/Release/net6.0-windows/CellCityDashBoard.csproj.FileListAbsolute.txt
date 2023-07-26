@@ -15,6 +15,7 @@ C:\Autoupdate\TrialApp\CellCityDashBoard\obj\Release\net6.0-windows\refint\CellC
 C:\Autoupdate\TrialApp\CellCityDashBoard\obj\Release\net6.0-windows\CellCityDashBoard.pdb
 C:\Autoupdate\TrialApp\CellCityDashBoard\obj\Release\net6.0-windows\CellCityDashBoard.genruntimeconfig.cache
 C:\Autoupdate\TrialApp\CellCityDashBoard\obj\Release\net6.0-windows\ref\CellCityDashBoard.dll
+C:\Autoupdate\TrialApp\CellCityDashBoard\obj\Release\net6.0-windows\CellCityDashBoard.Properties.Resources.resources
 C:\Autoupdate\TrialApp\CellCityDashBoard\bin\Release\net6.0-windows\CellCityDashBoard.dll.manifest
 C:\Autoupdate\TrialApp\CellCityDashBoard\bin\Release\net6.0-windows\CellCityDashBoard.application
 C:\Autoupdate\TrialApp\CellCityDashBoard\obj\Release\net6.0-windows\CellCityDashBoard.dll.manifest
