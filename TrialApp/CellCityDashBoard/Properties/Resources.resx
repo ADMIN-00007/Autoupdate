@@ -118,13 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Windows_7_earth_Icon_256" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Windows_7_earth_Icon_256.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="215-2151329_logo-cell-city-logo-botswana" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\icons\215-2151329_logo-cell-city-logo-botswana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="agency" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\agency.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Driver" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\Driver.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="7koo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\icons\7koo.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="tester" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\tester.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="7YyR" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\icons\7YyR.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="probsol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\probsol.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aeroplane" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\icons\aeroplane.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
