@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="CellCityDashBoard.exe" version="7.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="CellCityDashBoard.exe" version="7.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>zIa01DeRQPaAw3UGSE1E+e9j/fsir4/rQqWd4BK3eeM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="CellCityDashBoard.dll" size="778752">
+  <file name="CellCityDashBoard.dll" size="779776">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>mWhid6ae8jawKVBVUhg+mN8B/qdb5vN7RX7Ec1xYAvM=</dsig:DigestValue>
+      <dsig:DigestValue>PxD3F2sjoD5vA6o5oI1UpHzYxIRbx0vQ6laW3dJ4IZ8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="CellCityDashBoard.exe" size="147968">
+  <file name="CellCityDashBoard.exe" size="147456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>H6Z71gq+Qifh8HyE627G9+Uh5Awhm7yLVCWl6tXoL68=</dsig:DigestValue>
+      <dsig:DigestValue>jaDstvmQTKS5ZfGcPwm+GkcCQ0eXCEHsg64dpEtLtm0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="CellCityDashBoard.runtimeconfig.json" size="372">

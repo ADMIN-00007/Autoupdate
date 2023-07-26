@@ -142,7 +142,7 @@
             // 
             // timer1
             // 
-            timer1.Interval = 5000;
+            timer1.Interval = 1000;
             timer1.Tick += timer1_Tick;
             // 
             // label2
@@ -164,6 +164,7 @@
             button1.Size = new Size(174, 174);
             button1.TabIndex = 9;
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -174,6 +175,7 @@
             button2.Size = new Size(174, 174);
             button2.TabIndex = 11;
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // label3
             // 
@@ -194,6 +196,7 @@
             button3.Size = new Size(174, 174);
             button3.TabIndex = 13;
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // label4
             // 
@@ -214,6 +217,7 @@
             button4.Size = new Size(174, 174);
             button4.TabIndex = 15;
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // label5
             // 
@@ -234,6 +238,7 @@
             button5.Size = new Size(174, 174);
             button5.TabIndex = 17;
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // label6
             // 
