@@ -34,22 +34,22 @@ namespace CellCityDashBoard
 
         private void button2_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://goldwingbw-my.sharepoint.com/:x:/g/personal/adnan_cellcity_co_bw/EbhTOxKr6lxBsey0j8x3jPsB5lr95u9b2LO1feHc6O_Dgw?e=1ejAHr");
+            Process.Start(new ProcessStartInfo { FileName = @"https://goldwingbw-my.sharepoint.com/:x:/g/personal/adnan_cellcity_co_bw/EbhTOxKr6lxBsey0j8x3jPsB5lr95u9b2LO1feHc6O_Dgw?e=1ejAHr", UseShellExecute = true });
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://docs.google.com/spreadsheets/d/1kuCpfsP2BnDou7QxRB80s3NrvZbAr1hT-iXGhiU7Klo/edit?usp=sharing");
+            Process.Start(new ProcessStartInfo { FileName = @"https://docs.google.com/spreadsheets/d/1kuCpfsP2BnDou7QxRB80s3NrvZbAr1hT-iXGhiU7Klo/edit?usp=sharing", UseShellExecute = true });
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://forms.office.com/Pages/ResponsePage.aspx?id=Uxo8h1TYokeM71lH3Fj_sdQBH5zizjBImbSQ_pb3sepUNFQ4VFY1VTZIUklCRFRZNTFMSVE3WlpaUC4u");
+            Process.Start(new ProcessStartInfo { FileName = @"https://forms.office.com/Pages/ResponsePage.aspx?id=Uxo8h1TYokeM71lH3Fj_sdQBH5zizjBImbSQ_pb3sepUNFQ4VFY1VTZIUklCRFRZNTFMSVE3WlpaUC4u", UseShellExecute = true });
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://goldwingbw-my.sharepoint.com/:x:/g/personal/adnan_cellcity_co_bw/Ea8PkdIBJh5EkOSPfao7hOYB7JVSR_pVCJktLR47HZALgg");
+            Process.Start(new ProcessStartInfo { FileName = @"https://goldwingbw-my.sharepoint.com/:x:/g/personal/adnan_cellcity_co_bw/Ea8PkdIBJh5EkOSPfao7hOYB7JVSR_pVCJktLR47HZALgg", UseShellExecute = true });
         }
     }
 }
